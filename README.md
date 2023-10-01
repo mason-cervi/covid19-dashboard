@@ -13,7 +13,17 @@
 
 This project showcases how you can use [fastpages](https://github.com/fastai/fastpages) to create a static dashboard that update regularly using Jupyter Notebooks.  Using fastpages, data professionals can share dashboards (that are updated with new data automatically) without requiring any expertise in front end development.
 
-The content of this site shows statistics and reports regarding Covid-19.
+The content of this site shows statistics and reports regarding Covid-19. More specifically, statistics on the site include historical data on Covid-19 as well as projections for a myriad of data pertaining to almost every country in the world. 
+
+Charts are available comparing death rates between countries all across the world, contained in a single graph. The user is also given the ability to click the sidebar with a list of country names to highlight the country that they would like to view, in a unique color. 
+
+Additionally there is an overview page that allows in-depth exploration of the statistics being tracked with respect to any individual nation of the users' choosing. Users can navigate data on total cases, death rates, number of new cases, etc. 
+
+With the sleek interface the site provides, users are able to seamlessly navigate and extrapolate their own trends from the data. For example, we can compare nations' death rates relative to their vaccination rates to determine the efficacy of the Covid-19 vaccination with respect to reducing death.
+
+Aside from historical data, the site also hosts numerous projections into the future. Namely, the site offers projections of ICU need by country. This could prove useful for several different reasons. First, it could unfortunately serve as a harbinger of an elevated death rate, if the rate is not already elevated. This data can also serve as a proxy for economic development in conjunction with data on case rates. If a country has a dire need for ICUs while maintaining a moderate death rate, this signals either underreporting in cases or a lack of medical infrastructure, indicating lower economic development.
+
+These are just a few of the many fascinating ways to interact with the data embedded within the site. Of course, the raw data is also available near the bottom of each page so feel free to perform your own statistical analysis to determine or discover something that you may be interested in that is hidden in the data somewhere.
 
 ### Contributing
 
